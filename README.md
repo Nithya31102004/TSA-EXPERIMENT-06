@@ -1,7 +1,7 @@
 # Experiment 06 – Exponential Smoothing Methods
 
-### Name: HANIEL REENA D R
-### Register No: 2305001008
+### Name: NITHYA T
+### Register No: 2305001023
 
 ## Aim
 To implement and compare three exponential smoothing techniques for time-series forecasting:
